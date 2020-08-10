@@ -1,5 +1,5 @@
 return {
-    includedirs = { 'UnitTest++' },
+    includedirs = { '.' },
     links = { 'unittest-cpp' },
     options = {
     },
